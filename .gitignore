@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+assets/
+.DS_Store
+cmake-build-debug/
+cmake.log
+data/
